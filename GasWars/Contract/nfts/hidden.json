@@ -1,0 +1,11 @@
+{
+  "name": "Chimchar ???",
+  "description": "Un mystérieux Chimchar… sera-t-il shiny ?",
+  "image": "https://www.pokepedia.fr/images/5/54/Sprite_0390_DP.png",
+  "attributes": [
+    {
+      "trait_type": "Révélé",
+      "value": "Non"
+    }
+  ]
+}

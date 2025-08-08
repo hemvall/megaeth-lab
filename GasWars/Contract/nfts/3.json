@@ -1,0 +1,11 @@
+{
+    "name": "Chimchar #3",
+    "description": "The Chimchar collection on MegaETH",
+    "image": "https://www.pokepedia.fr/images/5/54/Sprite_0390_DP.png",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Common"
+        }
+    ]
+}
