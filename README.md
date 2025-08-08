@@ -3,6 +3,7 @@
 - Deployed a smart contract, created contract with basic functions (mint, transfer, approve,..)
 - Created a Dapp to visualize token's supply, user balance of the token and buttons to mint new tokens, transfer tokens, approve spender
 - Discovered UUPS logic on remix (Upgradable proxy)
+- Created NFT Collection with a "Shiny" one, secret mint
 <img width="1919" height="893" alt="image" src="https://github.com/user-attachments/assets/41db370b-8625-4be1-8387-3fe084fa021d" />
 
 # Sample Hardhat Project
